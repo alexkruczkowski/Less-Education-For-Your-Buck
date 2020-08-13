@@ -1,6 +1,8 @@
 # Less-Education-For-Your-Buck
 Comparison of inflation (CPI) vs the cost of university tuition in Canada
 
+![Results](Less-Education-4-Your-Buck.png)
+
 ## :mag: Methodology
 Data retrieved from the Statscan website for the Canadian Consumer Price Index and Tuition Costs in Canada. The data was then processed in Excel and cleaned in Jupyter Notebooks using Pandas. Once cleaning was complete, the data was visualized using plotly. 
 
